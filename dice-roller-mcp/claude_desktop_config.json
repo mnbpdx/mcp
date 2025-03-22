@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+      "dice-roller": {
+          "command": "uv",
+          "args": [
+              "--directory",
+              "/Users/mb/code/dice-roller-mcp",
+              "run",
+              "dice-roller.py"
+          ]
+      }
+  }
+}

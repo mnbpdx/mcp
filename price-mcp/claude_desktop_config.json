@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+      "price": {
+          "command": "uv",
+          "args": [
+              "--directory",
+              "/Users/mb/code/price-mcp",
+              "run",
+              "price.py"
+          ]
+      }
+  }
+}
